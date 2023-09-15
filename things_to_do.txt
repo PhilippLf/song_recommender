@@ -1,0 +1,4 @@
+- maybe do not drop mode from the features
+- expand hot data
+- focus on diverse data
+- add descriptions for functions and project
